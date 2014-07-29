@@ -6,7 +6,7 @@
     android:orientation="vertical" >
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/txvHITOKOTO"
         android:layout_width="230dp"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
@@ -20,7 +20,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
+        android:layout_below="@+id/txvHITOKOTO"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="28dp"
         android:text="ひとこと登録" />

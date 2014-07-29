@@ -51,7 +51,7 @@ public class MaintenanceActivity extends Activity implements View.OnClickListene
     	btnMainte_Back.setOnClickListener(this);
 
     	//
-    	lstHitokoto.setOnClickListener(this);
+    	lstHitokoto.setOnItemClickListener(this);
 
     	//
     	this.setDBValuetoList(lstHitokoto);
